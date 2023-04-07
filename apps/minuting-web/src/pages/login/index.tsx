@@ -39,7 +39,7 @@ function LoginPage() {
         <Link
           href={`https://bbubbu.me/auth/code?type=${process.env.NEXT_PUBLIC_LOGIN_TYPE}`}
         >
-          <Button size={'large'}>구글 계정으로 로그인asdfㅁㄴㅇㄹ</Button>
+          <Button size={'large'}>구글 계정으로 로그인</Button>
         </Link>
       </Block>
     </>
